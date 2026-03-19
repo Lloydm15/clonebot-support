@@ -1,9 +1,3 @@
-<![CDATA[<p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-orange" alt="iOS">
-  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen" alt="Status">
-</p>
-
 # Clonebot
 
 Talk to AI clones of real people. Built from their actual books, podcasts, interviews, and keynotes.
@@ -18,7 +12,7 @@ Clonebot is an iOS app that lets you have real conversations with digital versio
 
 **Have a real conversation.** Ask Alex Hormozi about pricing, scaling, lead generation, sales, team building, or anything he's covered in his books and content. The clone answers using his actual frameworks like the Value Equation, the Grand Slam Offer, and the Core Four.
 
-**Pick a topic.** The home screen has quick-tap topics so you can jump right into a subject: Offers & Pricing, Scaling, Lead Generation, Team Building, Sales Strategy, His Books.
+**Pick a topic.** The home screen has quick-tap topics so you can jump right into a subject: Offers and Pricing, Scaling, Lead Generation, Team Building, Sales Strategy, His Books.
 
 **Save your chats.** Every conversation is saved automatically. Come back anytime and pick up where you left off.
 
@@ -48,21 +42,27 @@ Responses are generated using AI trained on the clone's actual content. The syst
 ## Troubleshooting
 
 **The app won't connect or shows "Server Down"**
+
 Check your internet connection. If your connection is fine, the server may be restarting. Wait a few minutes and try again. You can also force-close the app and reopen it.
 
 **Messages aren't loading**
+
 Force-close the app and reopen it. If the problem continues, check the server status indicator on the Home screen. If it shows "Down," the backend is temporarily unavailable.
 
 **I can't log in**
+
 Make sure you're using the correct email and password. Passwords are case-sensitive. If you've forgotten your password, contact us at the email below.
 
 **The app crashes on launch**
+
 Make sure you're running the latest version from the App Store. If it still crashes, delete and reinstall the app. This won't delete your chat history since it's stored on the server.
 
 **Responses seem slow**
+
 Response time depends on server load and your internet connection. Most responses start streaming within a few seconds. If responses take more than 30 seconds, try starting a new conversation.
 
 **I found a bug**
+
 Email us with a description of what happened, what device you're using (iPhone or iPad), and your iOS version. Screenshots help.
 
 ---
@@ -78,9 +78,11 @@ For full details, see our [Privacy Policy](https://github.com/Lloydm15/clonebot-
 ## Contact
 
 **Email:** livenovastream@gmail.com
+
 **Response time:** Within 24 hours
 
 When contacting support, please include:
+
 - Your device model (e.g. iPhone 15, iPad Pro)
 - Your iOS version
 - A description of the issue
@@ -90,9 +92,8 @@ When contacting support, please include:
 
 ## About
 
-Clonebot is built by **NovaStream Live Inc.** We're building a platform where you can talk to AI versions of the people who inspire you, trained entirely on their real content.
+Clonebot is built by NovaStream Live Inc. We're building a platform where you can talk to AI versions of the people who inspire you, trained entirely on their real content.
 
 More clones coming soon.
 
 © 2026 NovaStream Live Inc. All rights reserved.
-]]>
